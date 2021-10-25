@@ -1,4 +1,4 @@
-# NetFree websocket V2Ray
+# MB Free
 
 ## Ganhar MB Free rápido e fácil (na Vivo por exemplo) rápido [Ganhar MB](https://t.me/EhisOpeNer)
 
