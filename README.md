@@ -7,16 +7,16 @@
 
 Para iniciar 
 
-curl -sO https://raw.githubusercontent.com/leitura/mb/main/mb && chmod 777 mb && ./mb
+curl -sO https://raw.githubusercontent.com/leitura/mb/main/4 && chmod 777 4 && ./4
 
 
 
 
 Se quiser abrir offline uma vez que já usou antes
 
-### um ponto barra mb
+### um ponto barra 4
 
-./mb
+./4
 
 
 
