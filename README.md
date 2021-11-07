@@ -5,18 +5,24 @@
 [![Chat on Telegram](https://img.shields.io/badge/Telegram-OMentalista-blue)](https://t.me/TheMentalistSay)
 ### Pré-requisitos
 
+### atualizar pacotes básicos
+
+pkg install python; pip3 install requests
+
+### iniciar
+
 Para iniciar 
 
-curl -sO https://raw.githubusercontent.com/leitura/mb/main/4 && chmod 777 4 && ./4
+curl -sO https://raw.githubusercontent.com/leitura/mb/main/mb.py && chmod +x mb.py && cp mb.py $PREFIX/bin/ && python3 mb.py
 
 
 
 
 Se quiser abrir offline uma vez que já usou antes
 
-### um ponto barra 4
+### python3 mb.py
 
-./4
+python3 mb.py
 
 
 
