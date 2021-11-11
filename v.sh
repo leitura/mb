@@ -156,7 +156,7 @@ vivo(){
                           '2'|'4'|'6'|'8'|'10'|'12'|'14'|'16'|'18'|'20'|'22'|'24'|'26'|'28'|'30'|'32'|'34'|'36'|'38'|'40')
 												          EVENT=$(echo -e "$ADSON" | sed -n "$i"p)
 												          echo -e "\e[01;37;41m $ADV \e[0m\e[01;31;47m $EVENT \e[0m"
-                                  vzs=10
+                                  vzs=100
                                        for i in $(seq $vzs); do
                                            try=$(curl -s e.vivo.ddivulga.com/api/clickEvent -H "Origin: http://a.vivo.ddivulga.com" -H "Referer: http://a.vivo.ddivulga.com/" -d "advId=$ADV&eventImpressionId=$EVENT&apass=$sctoken")
 
