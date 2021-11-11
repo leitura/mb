@@ -129,7 +129,7 @@ vivo(){
    for i in $(seq 3); do
      case $i in
        1) referer="clubefacil.com"; pageid="999534";;
-       2) referer=""; pageid="35369";;
+       2) referer=""; pageid="999534";;
        3) referer="a.vivo.ddivulga.com/"; pageid="660224"
      esac
 
