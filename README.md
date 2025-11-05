@@ -26,4 +26,4 @@ python3 mb.py
 
 
 
-#### Qualquer dúvida ou erros, alerte em [Telegram](https://t.me/joinchat/0ZuzhFwuKPQ2MTI5/)
+#### Qualquer dúvida ou erros, alerte em [Telegram](https://t.me/OMentalista)
